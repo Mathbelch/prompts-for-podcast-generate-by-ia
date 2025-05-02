@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    [Síntese Celular](https://www.notion.so/Podcast-S-ntese-Celular-1e6c064c7ae3800cadf4eaea031c2646?pvs=4)
 </p>
 
 <div align="center">
